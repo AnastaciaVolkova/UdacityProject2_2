@@ -1,4 +1,4 @@
-# UdacityProject2_2 "Go Chase It"
+# UdacityProject3 "Go Chase It"
 
 Course Project from Robotics Software Engineer - ROS Essentials. 
 Robot, which was designed in this project, chases the white ball.
